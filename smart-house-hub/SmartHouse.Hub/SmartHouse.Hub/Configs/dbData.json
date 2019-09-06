@@ -1,0 +1,6 @@
+{
+  "DbConfiguration": {
+    "MongoConnection": "mongodb://localhost:27017",
+    "DbName": "smartHub-v2"
+  }
+}

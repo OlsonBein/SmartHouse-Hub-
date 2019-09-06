@@ -1,0 +1,12 @@
+{
+  "UrlConfiguration": {
+    "PortToListen": "8888",
+    "HubUrl": "http://localhost:59001/smarthouse",
+    "GetUrlForInit": "GetUrlForInit",
+    "GetUrlForListen": "GetUrlForListen",
+    "MethodUrls": {
+      "1": "InitDevice",
+      "0": "InitSensor"
+    }
+  }
+}

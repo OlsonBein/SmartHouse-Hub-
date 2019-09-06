@@ -1,0 +1,487 @@
+2019-08-07 14:35:09.8705|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with 2141234 has been added in 07.08.2019
+2019-08-07 14:40:28.6849|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added in 14:40:28
+2019-08-07 16:23:47.7946|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-07 16:27:50.4865|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-07 16:29:58.1365|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" had been invoked.
+2019-08-07 16:30:15.8824|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-07 16:36:54.8821|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-07 16:36:58.6742|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-07 17:43:47.2377|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-07 17:43:53.7012|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-09 15:27:40.4005|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-09 15:33:40.0352|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-09 17:30:25.1910|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-09 17:37:14.6135|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234
+2019-08-09 17:42:47.0809|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234 in Method: InitDevice.
+2019-08-09 17:46:23.8376|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-09 17:46:55.5962|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234 in Method: InitDevice.
+2019-08-12 12:35:35.0859|ERROR|SmartHouse.Hub.Hubs.SmartHouseHub|Something wrong with 2141234 in Method: InitDevice.
+2019-08-13 17:27:00.4257|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-13 17:29:07.2172|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-13 17:31:10.5237|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-13 17:33:28.9986|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-15 10:58:03.7801|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 12:27:16.0545|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 12:54:32.5361|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitSensor. Device with MAC: 11:AA:22:BB has been added.
+2019-08-20 12:54:52.4438|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 13:50:56.2079|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 13:55:26.7368|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:16:18.0989|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 2141234 has been added.
+2019-08-20 14:16:18.2537|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:18:25.2115|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitDevice. Device with MAC: 141235 has been added.
+2019-08-20 14:18:38.8594|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:25:31.5528|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:30:55.5554|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:32:42.0539|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 14:35:12.7628|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-20 17:27:44.4617|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 16:55:32.5538|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitSensor. Device with MAC: 11:AA:22:AA has been added.
+2019-08-21 16:55:32.6278|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:03:51.6466|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:06:05.4046|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:06:05.9165|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 84
+2019-08-21 17:06:10.9452|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 88
+2019-08-21 17:06:15.9600|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 80
+2019-08-21 17:06:20.9814|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 82
+2019-08-21 17:06:26.0016|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 88
+2019-08-21 17:06:31.0225|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 71
+2019-08-21 17:06:36.0332|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 81
+2019-08-21 17:09:09.5788|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 81
+2019-08-21 17:09:11.0041|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitSensor. Device with MAC: 11:AA:22:ZZ has been added.
+2019-08-21 17:09:11.0041|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:09:11.0327|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 73
+2019-08-21 17:09:14.5906|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 70
+2019-08-21 17:09:16.0562|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 72
+2019-08-21 17:09:19.6137|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 79
+2019-08-21 17:09:21.0692|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 88
+2019-08-21 17:09:24.6265|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 80
+2019-08-21 17:09:26.0897|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 79
+2019-08-21 17:09:29.6470|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 70
+2019-08-21 17:09:31.0983|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 70
+2019-08-21 17:09:34.6637|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 77
+2019-08-21 17:09:36.1144|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 75
+2019-08-21 17:09:39.6769|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 74
+2019-08-21 17:09:41.1323|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 89
+2019-08-21 17:09:44.6958|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 82
+2019-08-21 17:09:46.1507|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 79
+2019-08-21 17:09:49.7135|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 87
+2019-08-21 17:09:51.1594|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 88
+2019-08-21 17:09:54.7303|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 84
+2019-08-21 17:09:56.1735|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 74
+2019-08-21 17:09:59.7521|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 84
+2019-08-21 17:10:01.1947|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 81
+2019-08-21 17:10:04.7673|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 70
+2019-08-21 17:10:06.2131|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 76
+2019-08-21 17:10:09.7825|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 79
+2019-08-21 17:10:11.2198|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 84
+2019-08-21 17:10:14.7988|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 87
+2019-08-21 17:10:16.2366|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 85
+2019-08-21 17:10:19.8168|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 70
+2019-08-21 17:10:21.3487|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 89
+2019-08-21 17:10:24.8292|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 71
+2019-08-21 17:10:26.3713|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 78
+2019-08-21 17:10:29.8468|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 72
+2019-08-21 17:10:31.3934|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor sent 89
+2019-08-21 17:17:07.6220|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:17:07.8164|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:17:12.8517|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:17:17.8762|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:17:22.8869|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:17:27.8941|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:17:32.9364|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:17:37.9812|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:17:43.0025|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:17:48.0210|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:17:53.0415|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:17:58.0778|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:18:03.1115|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:18:08.1337|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:18:13.1806|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:18:22.0246|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:18:25.2378|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:18:25.2855|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 70
+2019-08-21 17:18:27.0345|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:18:30.3111|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 72
+2019-08-21 17:18:32.0505|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:18:35.3181|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 73
+2019-08-21 17:18:37.0659|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:18:40.3327|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 88
+2019-08-21 17:18:42.0843|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:18:55.3790|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 80
+2019-08-21 17:18:55.3966|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 17:19:00.3969|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 75
+2019-08-21 17:19:00.4095|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:19:05.4141|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 80
+2019-08-21 17:19:05.4231|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:19:10.4346|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 89
+2019-08-21 17:19:10.4346|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:19:15.4493|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 83
+2019-08-21 17:19:15.4554|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:19:20.4673|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 81
+2019-08-21 17:19:20.4673|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:19:25.4869|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 72
+2019-08-21 17:19:25.4991|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:19:30.5019|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 84
+2019-08-21 17:19:30.5207|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:19:35.5184|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 70
+2019-08-21 17:19:35.5378|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:19:40.5413|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 70
+2019-08-21 17:19:40.5479|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:19:45.5686|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:19:45.5686|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 81
+2019-08-21 17:19:50.5821|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 78
+2019-08-21 17:19:50.5999|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 87
+2019-08-21 17:24:24.1025|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:24:24.1978|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:24:29.2060|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:24:34.2333|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:24:39.2506|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:24:44.2918|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:24:49.3110|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:24:54.3283|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 17:24:59.3438|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:25:04.3588|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:25:09.3794|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:30:21.0209|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:30:21.1190|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:30:26.1353|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:30:31.1404|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:30:36.1544|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 17:30:41.1715|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:30:46.1908|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 78
+2019-08-21 17:30:51.2019|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:30:56.2183|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:31:01.2351|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:31:06.2510|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:31:11.2676|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 17:31:16.2839|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:31:21.3010|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:31:26.3161|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:31:31.3266|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:31:36.3447|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:31:41.3609|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:31:46.3757|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:31:51.3928|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 79
+2019-08-21 17:31:56.4064|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:32:01.4218|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:32:06.4364|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 17:32:11.4531|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:32:16.4726|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 17:32:21.4882|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:32:26.5037|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:32:31.5166|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:32:36.5322|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:32:41.5450|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:32:46.5616|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:32:51.5766|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:32:56.5939|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:33:01.6098|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:33:06.6285|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:33:11.6405|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:33:16.6579|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:33:21.6733|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:33:26.6909|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:33:31.7074|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:33:36.7210|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 79
+2019-08-21 17:33:41.7373|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:33:46.7501|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:33:51.7676|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:33:56.7796|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:34:01.7965|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:34:57.3065|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:34:57.4299|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 17:35:02.4566|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:35:07.4816|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:35:12.4912|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:56:31.6244|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:57:58.7891|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:57:59.1663|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 17:57:59.1833|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:58:03.9084|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:58:04.2245|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 17:58:08.9255|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:58:09.2547|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:58:13.9457|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:58:14.2692|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:58:18.9662|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 79
+2019-08-21 17:58:19.2871|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 17:58:23.9870|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:58:24.3061|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:58:29.0129|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:58:29.3233|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 17:58:34.0335|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:58:34.3507|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:58:39.0523|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:58:39.3832|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:58:44.0722|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 17:58:44.3937|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:58:49.0829|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:58:49.4115|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:58:54.1020|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:58:54.4256|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:58:59.1222|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 17:58:59.4349|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:59:04.1316|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:59:04.4575|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:59:09.1483|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 17:59:09.4822|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:59:14.1571|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 17:59:14.4945|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:59:19.1648|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:59:19.5024|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:59:24.1868|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 17:59:24.5148|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:59:29.2065|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 17:59:29.5345|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:59:34.2246|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:59:34.5489|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 17:59:39.2436|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:59:39.5563|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 17:59:44.2641|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 17:59:44.5669|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 17:59:49.2835|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 17:59:49.5927|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 17:59:54.3030|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 17:59:54.6004|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 17:59:59.3247|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 17:59:59.6172|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:00:04.3363|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:00:04.6336|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:00:09.3451|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:00:09.6505|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:00:14.3523|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:00:14.6593|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 18:00:19.3748|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 18:00:19.6759|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 78
+2019-08-21 18:00:24.3937|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:00:24.6907|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:00:29.4087|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 18:00:29.7058|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 18:00:34.4239|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 18:00:34.7230|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 18:00:38.3568|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 18:00:39.4419|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:00:39.7416|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 18:00:43.3793|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 79
+2019-08-21 18:00:44.4595|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:00:44.7624|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:00:48.3944|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:00:49.4782|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 18:00:49.7747|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:00:53.4079|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 18:00:54.4868|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 83
+2019-08-21 18:00:54.7835|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:00:58.4289|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:00:59.5063|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 18:00:59.8064|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:01:03.4414|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:01:04.5263|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:01:04.8207|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 18:01:08.4617|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 18:01:09.5326|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 18:01:09.8284|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:01:13.4708|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 78
+2019-08-21 18:01:14.5490|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:01:14.8509|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:01:18.4906|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 18:01:19.5647|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:01:19.8701|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:01:23.5035|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:01:24.5913|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 18:01:24.8909|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 18:01:28.5198|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:01:29.6249|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:01:29.8988|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 77
+2019-08-21 18:01:33.5379|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 18:01:34.6313|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:01:34.9145|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:01:38.5503|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 18:01:39.6458|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 18:01:39.9379|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:01:43.5646|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:01:44.6598|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:01:44.9539|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:01:48.5803|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:01:49.6746|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:01:49.9765|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:01:53.6039|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:01:54.6917|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:01:54.9975|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:01:58.6134|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 18:01:59.7113|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:02:00.0125|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:02:03.6302|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 18:02:04.7200|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 18:02:05.0331|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 18:02:08.6451|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:02:09.7369|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:02:10.0511|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:02:13.6606|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 18:02:14.7542|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 89
+2019-08-21 18:02:15.0673|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 18:02:18.6793|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 18:02:19.7746|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:02:20.0886|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 18:02:23.7065|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 18:02:24.7841|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 82
+2019-08-21 18:02:25.1116|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 18:02:28.7209|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:02:29.7990|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 72
+2019-08-21 18:02:30.1264|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:02:33.7377|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 18:02:34.8190|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:02:35.1445|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 78
+2019-08-21 18:02:38.7520|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 86
+2019-08-21 18:02:39.8400|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 18:02:40.1559|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 85
+2019-08-21 18:02:43.7685|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 75
+2019-08-21 18:02:44.8621|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 76
+2019-08-21 18:02:45.1760|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 80
+2019-08-21 18:02:48.7847|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:02:49.8802|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 87
+2019-08-21 18:02:50.1911|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 84
+2019-08-21 18:02:53.8011|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 71
+2019-08-21 18:02:54.8981|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 88
+2019-08-21 18:02:55.2057|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 74
+2019-08-21 18:02:58.8165|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 73
+2019-08-21 18:02:59.9155|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 70
+2019-08-21 18:03:00.2288|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:AA sent 81
+2019-08-21 18:38:40.6481|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 18:47:05.8074|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-21 18:51:09.5764|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 15:44:54.9026|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 15:46:47.5246|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 15:50:16.6103|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 15:53:05.5668|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:14:08.3027|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:21:16.0486|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:40:58.1320|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:46:43.2691|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:50:15.0015|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 16:53:18.8268|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-22 18:02:31.4099|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 79
+2019-08-22 18:02:47.0111|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 72
+2019-08-22 18:02:52.0319|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 81
+2019-08-22 18:02:57.0487|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 73
+2019-08-22 18:03:02.0691|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 82
+2019-08-22 18:03:09.8005|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 89
+2019-08-22 18:03:16.0653|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 84
+2019-08-22 18:03:21.0858|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 84
+2019-08-22 18:03:26.0990|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 85
+2019-08-22 18:05:30.9342|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method: InitSensor. Device with MAC: Sensor2 has been added.
+2019-08-22 18:05:31.0409|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 86
+2019-08-22 18:05:36.0634|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 78
+2019-08-22 18:05:41.0817|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 82
+2019-08-22 18:06:34.6481|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 77
+2019-08-22 18:06:39.7008|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 72
+2019-08-22 18:06:44.7201|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 72
+2019-08-22 18:06:49.7321|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 86
+2019-08-22 18:06:54.7505|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 77
+2019-08-22 18:06:59.7715|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 72
+2019-08-22 18:07:04.7805|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 79
+2019-08-22 18:07:09.8065|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 86
+2019-08-22 18:07:14.8272|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 82
+2019-08-22 18:07:19.8473|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 85
+2019-08-22 18:07:24.8574|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 77
+2019-08-22 18:07:29.8765|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 73
+2019-08-22 18:07:34.9003|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 74
+2019-08-22 18:07:39.9262|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 87
+2019-08-22 18:07:44.9381|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 70
+2019-08-22 18:07:49.9722|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 85
+2019-08-22 18:07:54.9962|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 77
+2019-08-22 18:08:00.0180|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 84
+2019-08-22 18:08:05.0303|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 76
+2019-08-22 18:08:10.0552|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 89
+2019-08-22 18:08:15.0764|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 74
+2019-08-22 18:08:20.0938|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 88
+2019-08-22 18:08:25.1130|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 81
+2019-08-22 18:08:30.1229|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 76
+2019-08-22 18:08:35.1418|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 74
+2019-08-22 18:08:40.1598|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 75
+2019-08-22 18:08:45.1749|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 76
+2019-08-22 18:08:50.1870|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 89
+2019-08-22 18:08:55.2103|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 89
+2019-08-22 18:09:00.2331|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 82
+2019-08-22 18:09:05.2525|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 75
+2019-08-22 18:09:10.2661|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 73
+2019-08-22 18:09:15.2897|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 72
+2019-08-22 18:09:20.3104|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 80
+2019-08-22 18:11:06.7640|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 70
+2019-08-22 18:11:11.8357|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 76
+2019-08-22 18:11:16.8629|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 71
+2019-08-22 18:11:21.8748|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 84
+2019-08-22 18:11:26.8952|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 76
+2019-08-22 18:11:31.9215|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 80
+2019-08-22 18:12:32.4150|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 72
+2019-08-22 18:12:37.4834|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 77
+2019-08-22 18:12:42.4942|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 88
+2019-08-22 18:12:47.5031|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 74
+2019-08-22 18:12:52.5161|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 75
+2019-08-22 18:12:57.5308|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 83
+2019-08-22 18:13:02.5499|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 72
+2019-08-22 18:13:07.5737|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 84
+2019-08-22 18:13:12.5958|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 88
+2019-08-22 18:16:32.8602|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 81
+2019-08-22 18:16:37.9468|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 86
+2019-08-22 18:17:40.4854|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: Sensor2 sent 78
+2019-08-22 18:17:48.1957|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 73
+2019-08-22 18:17:53.2235|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 74
+2019-08-22 18:17:58.2392|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:ZZ sent 78
+2019-08-28 15:55:24.5336|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-28 15:55:45.0408|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-28 15:58:39.0743|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-29 16:18:54.4744|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-29 16:45:08.2305|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-29 16:45:38.1590|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234 has been updated.
+2019-08-29 16:45:38.2643|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-29 16:45:38.2999|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Status of device with MAC 2141234 has been updated to On
+2019-08-29 16:46:00.7101|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234 disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-08-29 16:46:51.7976|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141236  has been added to current list
+2019-08-29 16:47:06.3709|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141236 has been added to repository.
+2019-08-29 16:47:12.1157|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-29 16:47:12.1634|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Status of device with MAC 2141236 has been updated to On
+2019-08-29 16:47:55.2676|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141236 disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-08-29 17:57:31.8705|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237  has been added to current list
+2019-08-29 17:57:32.3701|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 has been added to repository.
+2019-08-29 17:57:32.4074|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-29 17:57:32.4536|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Status of device with MAC 2141237 has been updated to On
+2019-08-29 17:58:15.7911|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-08-31 16:09:37.3705|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-31 16:10:43.0811|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237  has been added to current list
+2019-08-31 16:10:56.1158|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 has been updated.
+2019-08-31 16:11:00.6462|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-31 16:12:18.0954|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-31 16:24:21.0181|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-31 16:26:14.3570|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-08-31 16:28:26.2568|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237  has been added to current list
+2019-08-31 16:28:33.5946|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 has been updated.
+2019-08-31 16:28:38.2162|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-08-31 16:29:00.9261|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Status of device with MAC 2141237 has been updated to On
+2019-08-31 16:30:29.6642|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141234  has been added to current list
+2019-09-03 11:45:28.3407|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 11:46:28.7915|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 11:49:40.2653|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 11:50:13.8511|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 11:57:06.9995|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237  has been added to current list
+2019-09-03 11:57:08.2619|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 has been updated.
+2019-09-03 11:57:08.3923|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Method "On" has been invoked.
+2019-09-03 11:57:08.4444|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Status of device with MAC 2141237 has been updated to On
+2019-09-03 12:04:18.2496|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Device with MAC: 2141237 disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:04:53.1022|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:05:45.3194|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:07:07.0067|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:07:30.3451|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:12:34.6989|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:13:32.4952|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:17:18.0924|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:17:48.2831|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:18:50.4116|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:20:27.1020|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 12:20:35.7580|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 12:22:06.3471|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 13:48:24.6606|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 13:49:58.4497|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 13:53:41.6564|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 13:55:34.8529|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"
+2019-09-03 13:59:35.6471|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC: 11:AA:22:BB  has been added to current list
+2019-09-03 14:00:05.9969|INFO|SmartHouse.Hub.Hubs.SmartHouseHub|Sensor with MAC:  disconnected and was deleted from current list. It's status has been changed to "Off"

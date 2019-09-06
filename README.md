@@ -1,0 +1,2 @@
+# SmartHouse-Hub-
+"Smart House" is a House control system. It provides supervision of whole house devices.  Due to our application any client can turn on/off  the Devices remotely, get statistics from the Sensors and get access to some basic functionality. The Core of our system is a combination of Devices and Sensors what interact between each other through the Hub(Server). The Web and Mobile  clients were implemented in our application too. Clients get control over Devices and Sensors via WebAPI.
